@@ -1,0 +1,31 @@
+Create a Main Directory with train and valid folders each containing the folders of flower 
+images with their respective labels. 
+The Directory must look like the following :
+
+Main
+ - Train
+    - class 1
+        - img1.jpg
+        - img2.jpg
+        - img3.jpg
+        - img4.jpg
+    - class 2
+        - img1.jpg
+        - img2.jpg
+        - img3.jpg
+        - img4.jpg
+    - ......
+ - Valid
+    - class 1
+        - img1.jpg
+        - img2.jpg
+        - img3.jpg
+        - img4.jpg
+    - class 2
+        - img1.jpg
+        - img2.jpg
+        - img3.jpg
+        - img4.jpg
+    - ......
+
+
